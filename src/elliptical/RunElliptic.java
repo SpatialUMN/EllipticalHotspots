@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class RunElliptic {
 	public static void main(String[] args) throws IOException {
-		String dataset_path = "path/to/your/activity/file.txt";
+		String dataset_path = "path/to/your/activity/file.csv";
 		int Method = 1; //Naive = 0, Grid = 1
 		int step_size =50;
 		
