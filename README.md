@@ -1,9 +1,9 @@
 # Elliptical Hotspot Detection
-* [What Can You Get From Elliptical Hotspot Detection]()  
+* [What Can You Get From Elliptical Hotspot Detection](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#what-can-you-get)  
 * [Usage](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#usage)   
   * [Input Data Format](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#input-data-format)  
   * [Download and Run](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#Download-and-Run)  
-    * [How to import a GitHub project into Eclipse]()  
+    * [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
     * [Set Variables](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#set-variables) 
 * [Code Explanation (Java Diagram)]() 
 * [Case Study]()  
