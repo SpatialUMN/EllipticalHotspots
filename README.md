@@ -19,7 +19,7 @@ See [application domain](https://github.com/SpatialUMN/EllipticalHotspots/wiki/A
 
 # Usage  
 ## Input Data Format  
-We need 1 input file `activity`. It has 3 attributes:  
+We need 1 input file [`activity`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/activity.csv). It has 3 attributes:  
 `ID` is the activity id.   
 `X` is the x-axis value of the activity.  
 `Y ` is the Y-axis value of the activity.  
