@@ -27,10 +27,11 @@ We need 1 input file [`activity`](https://github.com/SpatialUMN/EllipticalHotspo
 ## Download and Run  
 ### [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
 ### Set Variables   
-Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/src/elliptical/RunElliptic.java) file, change line 6 - 9.  
+Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/src/elliptical/RunElliptic.java) file, change line 6 - 10.  
 `dataset_path` is the path to your activity file.  
 `Method` set Method = 1 if you want to use grid method, set Method = 0 if you need naive method.  
 `step_size` only has effect if you choose naive method. It is the step length used on denominator.  
+`writeFile` only has effect if you choose naive method. It is the path to save the output result.
 `theta` only has effect if you choose grid method. It is the log likelihood ratio threshold.   
 ### Output Results
 * For Grid-based Approach [here](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/Grid_output) is an outcome example you might see.   
