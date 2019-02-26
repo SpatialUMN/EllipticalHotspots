@@ -32,6 +32,6 @@ Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/
 `Method` set Method = 1 if you want to use grid method, set Method = 0 if you need naive method.  
 `step_size` only has effect if you choose naive method. It is the step length used on denominator.  
 `theta` only has effect if you choose grid method. It is the log likelihood ratio threshold.   
-### Output Result
+### Output Results
 * For Grid-based Approach [here](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/Grid_output) is an outcome example you might see.   
 * For Naive Approach, the result will looks like [this](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/naive_output.txt)
