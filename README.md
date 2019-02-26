@@ -45,3 +45,4 @@ logLR = 731.616170850715 center = (209, 209), radius = (40, 20) B = 32.673654930
 logLR = 730.2452730998634 center = (210, 209), radius = (41, 20) B = 33.48041184279693  
 maxLR = 731.616170850715maxLR is as big as 731.616170850715  
 Grid based approach: 76913 milliseconds  
+* For Naive Approach, the result will looks like [this](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/naive_output.txt)
