@@ -33,16 +33,5 @@ Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/
 `step_size` only has effect if you choose naive method. It is the step length used on denominator.  
 `theta` only has effect if you choose grid method. It is the log likelihood ratio threshold.   
 ### Output Result
-* For Grid-based Approach here is an outcome example you might see.  
-> Grid-based Approach.  
-Activity Set |A| = 2003  
-Study Area S = 999360.0988  
-Step length = 2.5  
-Number of blocks (400, 400)  
-logLR = 730.3276262488107 center = (210, 209), radius = (39, 20) B = 31.86689801904768  
-logLR = 730.3276262488107 center = (210, 210), radius = (39, 20) B = 31.86689801904768  
-logLR = 731.616170850715 center = (209, 209), radius = (40, 20) B = 32.673654930922304  
-logLR = 730.2452730998634 center = (210, 209), radius = (41, 20) B = 33.48041184279693  
-maxLR = 731.616170850715maxLR is as big as 731.616170850715  
-Grid based approach: 76913 milliseconds  
+* For Grid-based Approach [here](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/Grid_output) is an outcome example you might see.   
 * For Naive Approach, the result will looks like [this](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/naive_output.txt)
