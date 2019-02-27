@@ -29,7 +29,7 @@ We need 1 input file [`activity`](https://github.com/SpatialUMN/EllipticalHotspo
 ## Download and Run  
 ### [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
 ### Set Variables   
-Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/src/elliptical/RunElliptic.java) file, change line 6 - 10.  
+Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/Naive-Approach/src/elliptical/RunElliptic.java) file, change line 6 - 8.  
 `dataset_path` is the path to your activity file.   
 `step_size` It is the step length used on denominator.  
 `writeFile` It is the path to save the output result.     
