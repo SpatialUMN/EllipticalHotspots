@@ -7,7 +7,7 @@
     * [Set Variables](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#set-variables) 
     * [Output Results](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#output-results)
 * [Code Explanation (Java Diagram)]() 
-* [Case Study]()  
+* [Case Study](https://github.com/SpatialUMN/EllipticalHotspots/wiki/Case-Study)  
 * [Bug Report](https://github.com/SpatialUMN/EllipticalHotspots/issues)  
   
 
