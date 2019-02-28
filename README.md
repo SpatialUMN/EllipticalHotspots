@@ -9,6 +9,7 @@
 * [Code Explanation (Java Diagram)]() 
 * [Case Study](https://github.com/SpatialUMN/EllipticalHotspots/wiki/Case-Study)  
 * [Bug Report](https://github.com/SpatialUMN/EllipticalHotspots/issues)  
+* [Link to Paper]()
   
 
 # What Can You Get
