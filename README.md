@@ -2,11 +2,10 @@
 * [What Can You Get From Elliptical Hotspot Detection](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#what-can-you-get)  
 * [Usage](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#usage)   
   * [Input Data Format](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#input-data-format)  
-    * [Input Data](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#input-data)
-    * [Output Results](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#output-results)
   * [Download and Run](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#Download-and-Run)  
     * [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
-    * [Set Variables](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#set-variables) 
+    * [Set Variables](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#set-variables)   
+    * [Output Results](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#output-results)
     
 * [Code Explanation (Java Diagram)]() 
 * [Case Study](https://github.com/SpatialUMN/EllipticalHotspots/wiki/Case-Study)  
