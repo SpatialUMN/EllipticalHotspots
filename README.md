@@ -1,7 +1,7 @@
 # Elliptical Hotspot Detection
 * [What Can You Get From Elliptical Hotspot Detection](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#what-can-you-get)  
 * [Usage](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#usage)   
-  * [Data Format](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#data-format)  
+  * [Input Data Format](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#input-data-format)  
     * [Input Data](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#input-data)
     * [Output Results](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#output-results)
   * [Download and Run](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/README.md#Download-and-Run)  
@@ -23,16 +23,12 @@ Basic [concepts](https://github.com/SpatialUMN/EllipticalHotspots/wiki/Basic-Con
 For academic users, see [here]() for algorithm explanation.
 
 # Usage  
-## Data Format  
-### Input Data
+## Input Data Format  
 We need 1 input file [`activity`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/activity.csv). It has 3 attributes:  
 `ID` is the activity id.   
 `X` is the x-axis value of the activity.  
 `Y ` is the Y-axis value of the activity.  
 
-### Output Results
-The output will contain the method name, basic information of the study area, all the ellipse information, and the running time.
-[Here](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/Grid_output) is an outcome example you might see. 
 
 ## Download and Run  
 ### [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)  
@@ -40,5 +36,8 @@ The output will contain the method name, basic information of the study area, al
 Open [`RunElliptic.java`](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/src/elliptical/RunElliptic.java) file, change line 6 and 7.  
 `dataset_path` is the path to your activity file.   
 `theta` only has effect if you choose grid method. It is the log likelihood ratio threshold.   
+### Output Results
+The output will contain the method name, basic information of the study area, all the ellipse information, and the running time.
+[Here](https://github.com/SpatialUMN/EllipticalHotspots/blob/master/Grid_output) is an outcome example you might see. 
 
   
