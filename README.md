@@ -10,7 +10,7 @@
 * [Code Explanation (Java Diagram)]() 
 * [Case Study](https://github.com/SpatialUMN/EllipticalHotspots/wiki/Case-Study)  
 * [Bug Report](https://github.com/SpatialUMN/EllipticalHotspots/issues)  
-* [Link to Paper]()
+* [Link to Paper](Elliptical Hotspot Detection: A Summary of Results)
   
 
 # What Can You Get
